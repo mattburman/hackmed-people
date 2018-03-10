@@ -6,7 +6,7 @@
 - github: paulienuh
   twitter: paulienuh
   shortname: Pauline
-  role: HackMed Organiser
+  role: Operations & Tech Lead
 
 - github: szen95
   twitter: tzenszen
@@ -18,6 +18,11 @@
   shortname: Darren Vong
   role: HackMed Participant
   
+  - github: Calebp98
+  twitter: EnactusSheff
+  shortname: Caleb Parikh
+  role: HackMed Participant
+
 - github: abiH97
   shortname: Abi Horder
   role: Hackmed Partcipant
